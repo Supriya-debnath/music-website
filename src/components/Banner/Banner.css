@@ -1,0 +1,28 @@
+.banner {
+    background-image: url("https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/content/edu/art/5bbf5052da80d.jpeg"),
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 780px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 70px;
+  }
+  .banner-text{
+      color: salmon;
+  }
+  .about-btn {
+    background-color: #ff0505;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    padding: 11px;
+    color: white;
+  }
+  

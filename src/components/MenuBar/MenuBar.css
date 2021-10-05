@@ -1,0 +1,17 @@
+.items {
+    list-style: none;
+    padding-left: 40px;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: #000;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items li{
+      text-align: center;
+  }
+  .items:hover {
+    color: rgb(221, 5, 5);
+  }

@@ -1,0 +1,58 @@
+
+[
+    {
+    "name":"VIOLIN",
+    "price":30,
+    "description":" Most violins have a hollow wooden body. It is the smallest and thus highest-pitched instrument (soprano) in the family in regular.",
+    "img":"https://image.shutterstock.com/image-photo/music-passion-hobby-concept-close-260nw-1011506473.jpg"
+},
+    {
+    "name":"GUITAR",
+    "price":20,
+    "description":"The guitar is a fretted musical instrument that typically has six strings. It is held flat against the player's body and played.",
+    "img":"https://images.unsplash.com/photo-1525201548942-d8732f6617a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3VpdGFyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+},
+    {
+    "name":"VOICE",
+    "price":15,
+    "description":" On several marketing blogs, though, “tone of voice” is confused with written tone when used to describe writing for a brand.",
+    "img":"https://i.ytimg.com/vi/nbbRwH56yT4/maxresdefault.jpg"
+},
+    {
+    "name":"SAXOPHONE",
+    "price":17,
+    "description":" As with all single-reed instruments, sound is produced when a reed on a mouthpiece sound wave inside the instrument's body.",
+    "img":"https://thumbs.dreamstime.com/b/man-playing-sax-holding-to-play-37184936.jpg"
+},
+    {
+    "name":"PIANO",
+    "price":23,
+    "description":" A piano makes a sound when each key moves a small hammer that strikes a metal string. The inside looks kind of like a harp.",
+    "img":"https://ak.picdn.net/shutterstock/videos/3402347/thumb/1.jpg"
+},
+    {
+    "name":"TRUMPET",
+    "price":30,
+    "description":" The technical distinction between trumpet and horn is that one-third  a trumpet is conical while the horn's tube is the opposite.",
+    "img":"https://media.istockphoto.com/photos/man-playing-a-trumpet-picture-id134965433"
+},
+  
+    {
+    "name":"DISCO",
+    "price":35,
+    "description":"Disco is a genre of dance music and a subculture that emerged in the 1970s from the United States' urban nightlife scene.",
+    "img":"https://i.ytimg.com/vi/0rByo0OG04o/maxresdefault.jpg"
+},
+    {
+    "name":"TABLA",
+    "price":40,
+    "description":"A tabla is a pair of twin hand drums from the Indian subcontinent. percussion instrument in Hindustani classical music.",
+    "img":"https://image.shutterstock.com/image-photo/man-playing-on-traditional-indian-260nw-179252444.jpg"
+},
+    {
+    "name":"HARMONIUM",
+    "price":29,
+    "description":"Harmonium, also called Reed Organ, free-reed keyboard instrument that produces sound when wind sent by foot-operated bellow",
+    "img":"https://st3.depositphotos.com/18622994/34499/i/1600/depositphotos_344994884-stock-photo-male-hands-playing-keys-on.jpg"
+}
+]

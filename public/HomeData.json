@@ -1,0 +1,27 @@
+
+[
+    {
+    "name":"PIANO CLASSES",
+    "price":30,
+    "description":" Most violins have a hollow wooden body. It is the smallest and thus highest-pitched instrument (soprano) in the family in regular.",
+    "img":"https://lh3.googleusercontent.com/proxy/3TeawR7Jg74m3UfgInYdL_pX80cjvSC6cfA3-WdcgTYhZ1xNovazSLMIRRll8kNDnMgrPsp5LUoqAWhTlS-kh1ZTYvSyETGHEpsbI_jP2hDwTrlkalY8I6jrUyQdc7QsAHQ"
+},
+    {
+    "name":"WIND INSTRUMENTS",
+    "price":20,
+    "description":"The is a fretted musical instrument that typically has six strings. It is held flat against the player's body and played by strumming.",
+    "img":"https://cdn.britannica.com/46/93246-050-E32F8971/Some-wind-instruments-clarinet-flute-orchestra-tenor.jpg"
+},
+    {
+    "name":"GUITAR LESSENS",
+    "price":15,
+    "description":" On several marketing blogs, though, “tone of voice” is confused with written tone, especially when used to describe writing for.",
+    "img":"https://ofmvc40dolyrl7u9xigg5kyy-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/6-1-1024x576.jpg"
+},
+    {
+    "name":"DRUM EXPERTS",
+    "price":17,
+    "description":" As with all single-reed instruments, sound is produced when a reed vibrates to produce a sound wave inside the instrument's body.",
+    "img":"https://m.media-amazon.com/images/I/8186g7plXaL._SL1500_.jpg"
+}
+]

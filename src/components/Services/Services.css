@@ -1,0 +1,11 @@
+.service-container{
+    display: grid;
+    /* grid-template-columns: 3fr 1fr; */
+}
+.container__style{
+    min-height: 83.5vh;
+}
+.service-title{
+    margin: 30px;
+    color: wheat;
+}
